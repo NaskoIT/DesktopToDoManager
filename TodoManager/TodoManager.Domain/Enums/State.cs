@@ -2,8 +2,8 @@
 {
     public enum State
     {
-        Todo,
-        Progress,
-        Done
+        Todo = 1,
+        Progress = 2,
+        Done = 3
     }
 }
